@@ -1,2 +1,2 @@
-# MapeametnoOrdenadoValor
+# MapeamentoOrdenadoValor
 Repositório para estudo
